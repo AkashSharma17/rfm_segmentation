@@ -176,5 +176,5 @@ class CustomerSegmentationRFM:
 
 
 if __name__ == "__main__":
-    obj = CustomerSegmentationRFM(ecommerce_data.csv")
+    obj = CustomerSegmentationRFM("ecommerce_data.csv")
     obj.run()
