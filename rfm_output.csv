@@ -1,0 +1,10 @@
+CustomerID,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,RFM_Score,Segment,Cumulative_Percentage,Top_20_Percent
+104,28,2,7000,2,3,4,234,Regular,0.30973451327433627,True
+102,3,3,6000,4,4,4,444,VIP Customers,0.5752212389380531,True
+101,38,3,3000,1,4,3,143,Loyal Customers,0.7079646017699115,True
+108,10,1,2100,3,2,3,323,Regular,0.8008849557522124,False
+105,8,2,1600,4,3,2,432,Recent Customers,0.8716814159292036,False
+103,88,1,1000,1,1,2,112,At Risk,0.915929203539823,False
+106,33,1,900,2,1,1,211,Regular,0.9557522123893806,False
+107,12,1,500,3,1,1,311,Regular,0.9778761061946902,False
+109,1,1,500,4,2,1,421,Recent Customers,1.0,False
